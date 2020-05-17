@@ -1,2 +1,2 @@
 <?php echo 'hello'; ?>
-<?php echo 'goodafernoon'; ?>
+<?php echo 'good'; ?>
